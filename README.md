@@ -7,5 +7,5 @@ GPWv4空间精细支撑数据源： https://www.earthdata.nasa.gov/data/catalog/
 
 
 ## world.xlsx 为WPP2024选取部分并处理后的数据
-
+## zip文件为处理数据所需要的代码
 
